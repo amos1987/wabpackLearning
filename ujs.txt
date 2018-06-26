@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sss    sdasdasdasdsdssssssssssssssss      
+=======
+sss    sdasdasdasdsdssssssssssssssss
+>>>>>>> origin/master
