@@ -40,7 +40,7 @@ module.exports={
 		contentBase:path.resolve(__dirname,'dist'),
 		host:'192.168.31.242',
 		compress:true,
-		port:5555,
+		port:5555,//sss
 		
 	}	
 	
